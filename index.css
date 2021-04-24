@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    background-color:rgb(193, 230, 11);
+    border: 3px solid black;
+    padding:15px;
+    width:50%;
+    margin:auto;
+    color:rgb(77, 11, 230);
+    font-family:Monaco;
+    font-style: oblique;
+    font-weight:bold;
+  }
+  button{
+    background-color:rgb(194, 27, 108);
+  }
